@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujanae&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujanae&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanae&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 

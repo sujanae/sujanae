@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sujan L, a software developer specializing in Flutter and React. I am passionate about building dynamic, user-friendly, and visually appealing applications that provide seamless experiences across platforms.<br><br>
+👋 Hi, I’m Sujan L, a software developer specializing in React Native. I am passionate about building dynamic, user-friendly, and visually appealing applications that provide seamless experiences across platforms.<br><br>
 
 
 # Pet:
